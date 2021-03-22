@@ -1,1 +1,1 @@
-# pictionary-tutorial
+# SnakeApp
